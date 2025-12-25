@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://robherndon2023:Mongodb2025@dashboardtracker.cyikjgq.mongodb.net/?appName=DashboardTracker",
+    "jwtSecret": "secret"
+}
